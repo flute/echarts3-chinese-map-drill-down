@@ -1,0 +1,8 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: Exo,'-apple-system','Open Sans',HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif;
+	color: #333;
+}
