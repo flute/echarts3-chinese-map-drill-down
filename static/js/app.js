@@ -3,7 +3,6 @@ var chart = echarts.init(document.getElementById('main'));
 //34个省、市、自治区的名字拼音映射数组
 var provinces = {
     //23个省
-    "台湾": "taiwan",
     "河北": "hebei",
     "山西": "shanxi",
     "辽宁": "liaoning",
