@@ -103,7 +103,7 @@ var option = {
     title : {
         text: 'Echarts3 中国地图下钻至县级',
         subtext: '三级下钻',
-        link:'http://www.ldsun.com',
+        link: 'https://blog.csdn.net/example440982',
         left: 'center',
         textStyle:{
             color: '#fff',
